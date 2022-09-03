@@ -87,3 +87,5 @@ def pallindrome():
         print("Il s'agit BIEN d'un pallindrome.")
 
 #pallindrome()
+
+Ajout de commentaire test 
