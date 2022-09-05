@@ -1,5 +1,5 @@
 #----------------------------------------------------------------------
-# Auteure : Noooooon MOI! Voleur...
+# Auteure : Chlibidibidi
 # But : Déterminer si un chiffre saisi par l'utilisateur
 # est pair ou impair.
 #----------------------------------------------------------------------
