@@ -38,3 +38,5 @@
       **Pour l'exécuter :**
       - Retirer le # avant l'appel de la fonction.
       <br></br>
+      
+5. RAJOUTER UNE FONCTION PAR DALTON.
