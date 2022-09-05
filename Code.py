@@ -1,5 +1,6 @@
 #----------------------------------------------------------------------
-# Auteure : Dalton Labrecque
+=======
+# Auteure : Marie-Claire Lewandowski
 # But : Déterminer si un chiffre saisi par l'utilisateur
 # est pair ou impair.
 #----------------------------------------------------------------------
