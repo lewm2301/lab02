@@ -1,5 +1,5 @@
 #----------------------------------------------------------------------
-# Auteure : Dalton Labrecque
+# Auteure : Noooooon MOI! Voleur...
 # But : Déterminer si un chiffre saisi par l'utilisateur
 # est pair ou impair.
 #----------------------------------------------------------------------
